@@ -192,7 +192,8 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:0,Star Gold #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Star Gold 
+#EXTVLCOPT:network-caching=1000
 http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908657&extension=ts&play_token=kVY8HYT0dY
 
 
@@ -500,7 +501,8 @@ https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
 
 
 
-#EXTINF:0, group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla 
+#EXTVLCOPT:network-caching=1000
 http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908664&extension=ts&play_token=b2BwOAVvKU
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats

@@ -198,21 +198,22 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-
-
-
-#EXTINF:0,Star Gold 
+#EXTINF:0,Star Gold
 #EXTVLCOPT:network-caching=1000
-http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908657&extension=ts&play_token=kVY8HYT0dY
-
-
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:0,Star Gold [Backup 1]
+#EXTVLCOPT:network-caching=1000
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 #EXTINF:0,Star Gold 2
 #EXTVLCOPT:network-caching=1000
 http://202.70.146.135:8000/play/a02d/index.m3u8
-
+#EXTINF:0,Star Gold 2 [Backup 1]
+#EXTVLCOPT:network-caching=1000
+http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTINF:0,Star Gold Select
 #EXTVLCOPT:network-caching=1000
 http://202.70.146.135:8000/play/a068/index.m3u8
+
 
 
 #EXTINF:0,Zee Cinema 
@@ -314,9 +315,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1,NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:0,MH One Movies
-#EXTVLCOPT:network-caching=1000
-https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+
 
 #EXTINF:0,MH One Dil Se
 #EXTVLCOPT:network-caching=1000
@@ -324,12 +323,7 @@ https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 #EXTINF:0,MH One Prime
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
-#EXTINF:0,One Paschima
-#EXTVLCOPT:network-caching=1000
-https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
-#EXTINF:0,Shemaroo Josh
-#EXTVLCOPT:network-caching=1000
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
 
 #EXTINF:40,AMC 
 #EXTVLCOPT:network-caching=1000
@@ -372,11 +366,7 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:0,HBO Movies 
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1,HBO
-https://tvsen7.aynaott.com/hbo/index.m3u8
 
-#EXTINF:-1,HBO 2
-https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 
 #EXTINF:0,Mix Hollywood 
 #EXTVLCOPT:network-caching=1000
@@ -394,10 +384,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1,EPIX TV 
-https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8
-#EXTINF:-1,FX TV 
-https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
+
 
 #EXTINF:-1,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8

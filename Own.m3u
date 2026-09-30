@@ -197,13 +197,12 @@ https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 
+#EXTINF:24,STAR GOLD HD
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
 
-#EXTINF:0,Star Gold
-#EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:0,Star Gold [Backup 1]
-#EXTVLCOPT:network-caching=1000
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+
+
 #EXTINF:0,Star Gold 2
 #EXTVLCOPT:network-caching=1000
 http://202.70.146.135:8000/play/a02d/index.m3u8
@@ -239,6 +238,9 @@ http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
+#EXTINF:24,&PICTURS-HD
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
 
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
@@ -353,8 +355,13 @@ http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:0,Star Movies Select
 #EXTVLCOPT:network-caching=1000
 http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:0,STAR MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/STAR_PLUS/video.m3u8#M3U_World_4K
 
-
+#EXTINF:24,MOVIES-NOW-HD
+#EXTVLCOPT:network-caching=1000
+http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
 
 #EXTINF:0,MNX 
 #EXTVLCOPT:network-caching=1000
@@ -657,13 +664,13 @@ https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
 
 
 
-#EXTINF:0, group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla 
+#EXTVLCOPT:network-caching=1000
 http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908664&extension=ts&play_token=b2BwOAVvKU
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=55ef53e7216640ea862b98c3864000f7:11c2726ab75d4e6aaf54e0e09b5ae593
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/main.mpd?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
@@ -752,9 +759,9 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:0,Epic Kids Digital
 #EXTVLCOPT:network-caching=1000
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-#EXTINF:0,Hungama TV 
+#EXTINF:24,HUNGAMA
 #EXTVLCOPT:network-caching=1000
-http://103.185.24.134:3001/HUNGAMA/index.m3u8
+http://198.195.239.50:8095/HUNGAMA/index.m3u8
 #EXTINF:0,Super Hungama 
 #EXTVLCOPT:network-caching=1000
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8

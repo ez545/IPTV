@@ -259,13 +259,7 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:0,B4U Movies
 #EXTVLCOPT:network-caching=1000
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
-#EXTINF:0,Bhojpuri Cinema 
-#EXTVLCOPT:network-caching=1000
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:0,Manoranjan Prime
-#EXTVLCOPT:network-caching=1000
-https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 
 
 #EXTINF:0,Colors Cineplex
@@ -277,7 +271,8 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:0,Colors Cineplex [UK]
 #EXTVLCOPT:network-caching=1000
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
-
+#EXTINF:-1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Colors Cineplex Superhit
+http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
 
 #EXTINF:0,Goldmines
 #EXTVLCOPT:network-caching=1000
@@ -322,9 +317,11 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:0,MH One Dil Se
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
-#EXTINF:0,MH One Prime
-#EXTVLCOPT:network-caching=1000
-https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://static.epg.best/in/MoviesNow.in.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Movies Now
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts#skym3u.dev
+
 
 
 #EXTINF:40,AMC 
@@ -345,6 +342,8 @@ https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0,Great! Movies
 #EXTVLCOPT:network-caching=1000
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Action Movies" tvg-logo="https://imgur.com/79g2kA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8#skym3u.dev
 
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
@@ -366,10 +365,7 @@ http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
 #EXTINF:0,MNX 
 #EXTVLCOPT:network-caching=1000
 http://59.103.38.46:8000/play/a052/index.m3u8
-#EXTINF:24,AXN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTVLCOPT:network-caching=1000
-http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
 #EXTINF:0,HBO Movies 
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8

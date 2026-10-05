@@ -240,6 +240,10 @@ http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
+#EXTINF:30,& Pictures HD
+#EXTVLCOPT:network-caching=1000
+https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791208873~Starts=1791205273~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=vW28g_6DXcNSLnmXkmhNxLhjf7PRFttsbJnb4eTIKjPSTDwNFZIMYnqhvhzPOMKp5la9fK24z2wtu7rPChmkCw
+
 #EXTINF:24,&PICTURS-HD
 #EXTVLCOPT:network-caching=1000
 http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
@@ -325,6 +329,10 @@ https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1
 #EXTINF:0,MH One Dil Se
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
+
+#EXTINF:30,Sony PIX HD
+#EXTVLCOPT:network-caching=1000
+https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791208870~Starts=1791205270~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=O4XGRh-TxgPzfH_sMduHKEtx_jeolIYwBDHtx8TQ94yS4CB6ID_uwIgeRx0ZLH6RXku6tyKxeXZLOdzGWiijDg
 
 
 #EXTINF:0,Movies Now

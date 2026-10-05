@@ -197,11 +197,10 @@ https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 
-#EXTINF:24,STAR GOLD HD
+
+#EXTINF:24,Star Gold Select HD
 #EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
-
-
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 
 #EXTINF:0,Star Gold 2
 #EXTVLCOPT:network-caching=1000
@@ -213,6 +212,9 @@ http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTVLCOPT:network-caching=1000
 http://202.70.146.135:8000/play/a068/index.m3u8
 
+#EXTINF:0,Star Utsav Movies
+#EXTVLCOPT:network-caching=1000
+http://51.75.127.199:3141/starutsavmovies/index.m3u8
 
 
 #EXTINF:0,Zee Cinema 
@@ -277,6 +279,9 @@ http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
 #EXTINF:0,Goldmines
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:0,Goldmines 2
+#EXTVLCOPT:network-caching=1000
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 #EXTINF:0,Goldmines Action
 #EXTVLCOPT:network-caching=1000
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
@@ -313,15 +318,21 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1,NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
+#EXTINF:0,NH BollyGold
+#EXTVLCOPT:network-caching=1000
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 
 #EXTINF:0,MH One Dil Se
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://static.epg.best/in/MoviesNow.in.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Movies Now
+#EXTINF:0,Movies Now
+#EXTVLCOPT:network-caching=1000
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts#skym3u.dev
 
+#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://static.epg.best/in/MoviesNow.in.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Movies Now
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts#skym3u.dev
 
 
 #EXTINF:40,AMC 
@@ -345,18 +356,17 @@ https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies" tvg-logo="https://imgur.com/79g2kA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8#skym3u.dev
 
+
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
-#EXTINF:0,Star Movies [Backup 1]
-#EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a06r/index.m3u8
+http://51.75.127.199:3141/starmovies/index.m3u8
 #EXTINF:0,Star Movies Select
 #EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a06q/index.m3u8
-#EXTINF:0,STAR MOVIES HD
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+
+#EXTINF:0,Starz Cinema
 #EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/STAR_PLUS/video.m3u8#M3U_World_4K
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:24,MOVIES-NOW-HD
 #EXTVLCOPT:network-caching=1000

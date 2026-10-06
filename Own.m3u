@@ -198,29 +198,22 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
+
 #EXTINF:24,Star Gold Select HD
 #EXTVLCOPT:network-caching=1000
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 
 #EXTINF:0,Star Gold 2
 #EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:0,Star Gold 2 [Backup 1]
-#EXTVLCOPT:network-caching=1000
 http://107.167.16.138/stargold2/index.m3u8?token=test
-#EXTINF:0,Star Gold Select
-#EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a068/index.m3u8
 
 #EXTINF:0,Star Utsav Movies
 #EXTVLCOPT:network-caching=1000
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
 
-
 #EXTINF:0,Zee Cinema 
 #EXTVLCOPT:network-caching=1000
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Cinema HD
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
@@ -228,26 +221,22 @@ https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
-
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max HD
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:0,Sony Max 2 [US]
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
-#EXTINF:30,& Pictures HD
-#EXTVLCOPT:network-caching=1000
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791208873~Starts=1791205273~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=vW28g_6DXcNSLnmXkmhNxLhjf7PRFttsbJnb4eTIKjPSTDwNFZIMYnqhvhzPOMKp5la9fK24z2wtu7rPChmkCw
-
-#EXTINF:24,&PICTURS-HD
-#EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
-
+#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Movies",& Pictures HD
+#KODIPROP:inputstream.adaptive.stream_headers=Host=prod-linear-media.toffeelive.com&user-agent=okhttp/5.1.0&client-api-header=null&accept-encoding=gzip
+https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791277248~Starts=1791273648~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8PoydOFhFZ2NnN4kAaiUCVYkPIWY5px2gAVoAsyLaKgFKhhbvtNDlYHGQhFs24if0vp0MKX9vEw06oivTum4BA
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
 
@@ -259,60 +248,53 @@ http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
 #EXTINF:0,B4U Kadak 
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+
 #EXTINF:0,B4U Movies 
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+
 #EXTINF:0,B4U Movies
 #EXTVLCOPT:network-caching=1000
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
-
-
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:0,Colors Cineplex Bollywood
-#EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a058/index.m3u8
-#EXTINF:0,Colors Cineplex [UK]
-#EXTVLCOPT:network-caching=1000
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Colors Cineplex Superhit
-http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
+
+#EXTINF:-1,Colors Cineplex Superhit
+http://live.balajibroadband.com:3500/live/1450.m3u8
 
 #EXTINF:0,Goldmines
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
 #EXTINF:0,Goldmines 2
 #EXTVLCOPT:network-caching=1000
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
 #EXTINF:0,Goldmines Action
 #EXTVLCOPT:network-caching=1000
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
 #EXTINF:0,Goldmines Bollywood
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
-#EXTINF:0,Goldmines Bollywood [Backup 1]
-#EXTVLCOPT:network-caching=1000
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-
 
 #EXTINF:0,Goldmines Movies
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
-
-
 #EXTINF:-1,South Station 
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-
 
 #EXTINF:0,The Movie Club 
 #EXTVLCOPT:network-caching=1000
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
 #EXTINF:0,The Movie Club +2 
 #EXTVLCOPT:network-caching=1000
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
 #EXTINF:-1,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
@@ -330,37 +312,48 @@ https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 
-#EXTINF:30,Sony PIX HD
-#EXTVLCOPT:network-caching=1000
-https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791208870~Starts=1791205270~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=O4XGRh-TxgPzfH_sMduHKEtx_jeolIYwBDHtx8TQ94yS4CB6ID_uwIgeRx0ZLH6RXku6tyKxeXZLOdzGWiijDg
 
+
+
+
+
+
+
+
+
+
+#EXTINF:0,Sony PIX HD
+#EXTVLCOPT:network-caching=1000
+https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791277245~Starts=1791273645~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=c28jPA4YnyaWCbWEDiEN4wKzoAGvxudyLZQ4XqkICT8MDWheUOgngWYYq9YLUkHcyNWMEw6GxRlqcHlPM4fsAg
 
 #EXTINF:0,Movies Now
 #EXTVLCOPT:network-caching=1000
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts#skym3u.dev
-
-#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://static.epg.best/in/MoviesNow.in.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Movies Now
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts#skym3u.dev
-
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts
 
 #EXTINF:40,AMC 
 #EXTVLCOPT:network-caching=1000
 http://23.239.31.26:8989/amc/index.m3u8
+
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
 #EXTINF:0,AMC Triller
 #EXTVLCOPT:network-caching=1000
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
 #EXTINF:0,Cinemax Moremax
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
 #EXTINF:0,Gravitas Movies
 #EXTVLCOPT:network-caching=1000
 https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jx9exbvh3yi8u/Gravitas_Movies.m3u8
+
 #EXTINF:0,Great! Movies
 #EXTVLCOPT:network-caching=1000
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies" tvg-logo="https://imgur.com/79g2kA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8#skym3u.dev
 
@@ -368,6 +361,7 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
 http://51.75.127.199:3141/starmovies/index.m3u8
+
 #EXTINF:0,Star Movies Select
 #EXTVLCOPT:network-caching=1000
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
@@ -376,9 +370,7 @@ http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:24,MOVIES-NOW-HD
-#EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
+
 
 #EXTINF:0,MNX 
 #EXTVLCOPT:network-caching=1000

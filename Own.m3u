@@ -70,6 +70,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekhon
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TV
+
 #EXTINF:-1 tvg-id="TSports.bd" xui-id="409" tvg-name="T Sports" channel-id="TSports.bd.alt1" tvg-chno="9008" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Test",T Sports
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2Z43Y-5YC3Rn1M5srhtdyc
 
@@ -141,7 +142,7 @@ https://jtbsclassic.dpdns.org/live.m3u8
 
 
 
-#EXTINF:0,"𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Aakaash Aath 
+#EXTINF:0,"𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Aakaash Aath 
 #EXTVLCOPT:network-caching=1000
 http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5xkWsRS/star-jalsa.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
@@ -222,8 +223,8 @@ http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Movies",& Pictures HD
-#KODIPROP:inputstream.adaptive.stream_headers=Host=prod-linear-media.toffeelive.com&user-agent=okhttp/5.1.0&client-api-header=null&accept-encoding=gzip
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1791277248~Starts=1791273648~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8PoydOFhFZ2NnN4kAaiUCVYkPIWY5px2gAVoAsyLaKgFKhhbvtNDlYHGQhFs24if0vp0MKX9vEw06oivTum4BA
+#EXTVLCOPT:network-caching=1000
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
 
@@ -244,12 +245,16 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
+#EXTINF:0,Colors Cineplex HD
+#EXTVLCOPT:network-caching=1000
+http://51.68.240.30:80/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTkpQek1XR3dsRGhCc3JMTmRrNjZad3U0RXhOdUdxVGhRVy9GWGcrSEtBSlY1YXQrZFhTQ2pqWlpaZ1REV2NDczBKOGkwN1pnMzJZdE4xZ09WUlNCSWRoVEJaNkpZTjdRdEJvbkEyS2FXSjRLYmE0cjl5aE9KMStrUlhiUmgxQ2gwZnp0bVp4eHAzejhxSjdDRUFtNi96UkFaOFM2UTZ1T1ZQYmdRL0dmSnZZVUZ4anZkNlZtbzl3a3VSRjJqcVZoZEZueVBDZVdJTDhPM3BnZVR3aTFuOFhTa1FYMnlaYTFZMlJZSVlsNHBTaGV2TjlVaUlJSkFkTmF2NDdoV3hneldzd091YU0rTk9RU1BCRDQyTlJ6UVc3NmptbFJoN2N6d0V5VTIzVHJicGZRPT0
+
+
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvltv.cc:80/images/hzBbmMrmtIEGXqMnUe7kypfxR2fVzg57czYn4w_c6YSKnGDcHLcSrXCtDeUA3htofnXx5wj0fxzmdKlt2l5wCw.jpg" group-title="I𝐈𝐧𝐝𝐢𝐚𝐧",COLORS CINEPLEX HD
-http://dvltv.cc/live/iptvmax017/iptvmax0178/515.ts
+
 
 #EXTINF:-1,Colors Cineplex Superhit
 http://live.balajibroadband.com:3500/live/1450.m3u8
@@ -309,12 +314,26 @@ https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 
 
 
-
-
-
-#EXTINF:0,Sony PIX HD
+#EXTINF:24,MN+
 #EXTVLCOPT:network-caching=1000
-https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1791277245~Starts=1791273645~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=c28jPA4YnyaWCbWEDiEN4wKzoAGvxudyLZQ4XqkICT8MDWheUOgngWYYq9YLUkHcyNWMEw6GxRlqcHlPM4fsAg
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+
+#EXTINF:12,Sony Pix
+#EXTVLCOPT:network-caching=1000
+https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/chunks.m3u8
+
+#EXTINF:0,Star Movies
+#EXTVLCOPT:network-caching=1000
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:0,Star Movies Select
+#EXTVLCOPT:network-caching=1000
+http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
+
+#EXTINF:0,Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+
 
 #EXTINF:0,Movies Now
 #EXTVLCOPT:network-caching=1000
@@ -347,29 +366,9 @@ https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies" tvg-logo="https://imgur.com/79g2kA.png?ref=skym3u.dev?ref=skym3u.dev" provider="skym3u.dev",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8#skym3u.dev
 
-
-#EXTINF:0,Star Movies
-#EXTVLCOPT:network-caching=1000
-http://51.75.127.199:3141/starmovies/index.m3u8
-
-#EXTINF:0,Star Movies Select
-#EXTVLCOPT:network-caching=1000
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-
-#EXTINF:0,Starz Cinema
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-
-
-
 #EXTINF:0,MNX 
 #EXTVLCOPT:network-caching=1000
 http://59.103.38.46:8000/play/a052/index.m3u8
-
-#EXTINF:0,HBO Movies 
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
 
 #EXTINF:0,Mix Hollywood 
 #EXTVLCOPT:network-caching=1000
@@ -380,14 +379,15 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1,Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
 #EXTINF:-1,Movie Sphere AU
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTINF:-1,Movie Sphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-
 
 #EXTINF:-1,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8

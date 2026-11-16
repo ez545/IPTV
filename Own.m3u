@@ -169,9 +169,9 @@ https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Zee Cinema HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
-
-
-
+#EXTINF:0,Star Utsav Movies
+#EXTVLCOPT:network-caching=1000
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 
 #EXTINF:0,B4U Kadak 
 #EXTVLCOPT:network-caching=1000
@@ -180,9 +180,6 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:0,B4U Movies 
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-
-
-
 
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
@@ -210,6 +207,10 @@ https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
 #EXTINF:0,Goldmines Movies
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:0,Bollywood Movies
+#EXTVLCOPT:network-caching=1000
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 #EXTINF:-1,South Station 
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
@@ -240,7 +241,13 @@ https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 
+#EXTINF:0,AVA FAMILY
+#EXTVLCOPT:network-caching=1000
+https://familyhls.avatv.live/hls/stream.m3u8
 
+#EXTINF:0,AVA SERIES
+#EXTVLCOPT:network-caching=1000
+https://avaserieshls.wns.live/hls/stream.m3u8
 
 
 
@@ -258,10 +265,25 @@ https://go.skym3u.dev/live/c66a25/1bc3e0433dfa97a7dad89fbddd7579945def15451a978f
 #EXTVLCOPT:network-caching=1000
 https://go.skym3u.dev/live/c66a25/a5b42e1dc5c9ec073792ee564cbb6431b97970602dd31d7ce787e5d26ed8deb590694e8bb94ae83f124493f5aa802f1435767eb0f559604e0bd37fe3a43673317a15a748b8f2c1e90359.m3u8?s=dcc106&id=kgpz.m3u
 
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 
+#EXTINF:0,FX TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 
+#EXTINF:96,Sony Movies
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
+#EXTINF:0,Kung Fu+
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 
+#EXTINF:0,Netmax TV
+#EXTVLCOPT:network-caching=1000
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 
 
 
@@ -277,10 +299,6 @@ https://go.skym3u.dev/live/c66a25/a5b42e1dc5c9ec073792ee564cbb6431b97970602dd31d
 #EXTVLCOPT:network-caching=1000
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/152387.ts
 
-#EXTINF:40,AMC 
-#EXTVLCOPT:network-caching=1000
-http://23.239.31.26:8989/amc/index.m3u8
-
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -288,6 +306,10 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,AMC Triller
 #EXTVLCOPT:network-caching=1000
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+#EXTINF:0,AXN Movies (Portugal)
+#EXTVLCOPT:network-caching=1000
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 #EXTINF:0,Cinemax Moremax
 #EXTVLCOPT:network-caching=1000
@@ -330,11 +352,17 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:0,EN | Classic Movies
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-
-
-
+#EXTINF:0,RetroCrush
+#EXTVLCOPT:network-caching=1000
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
 
 

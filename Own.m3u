@@ -21,7 +21,7 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 1
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L83Ngf3C/banglavision.webp" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
@@ -34,8 +34,10 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/PxxzBhDM/20240822-230101.png",Mohona Tv 
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/live/somoy_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
@@ -46,7 +48,8 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1,Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Asian
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd019sYq/20240822_230705.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SA TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -68,11 +71,12 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekhon
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
-#EXTINF:-1 tvg-id="TSports.bd" xui-id="409" tvg-name="T Sports" channel-id="TSports.bd.alt1" tvg-chno="9008" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Test",T Sports
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2Z43Y-5YC3Rn1M5srhtdyc
+
+#EXTINF:0,group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",T Sports HD
+#EXTVLCOPT:network-caching=1000
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts#fb:M3U_World_4K
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6MvsdFm/20240822-231309.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel S
@@ -91,8 +95,7 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Me Tv
-https://iptvbd.live/metv1080/1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:0,Channel 16
@@ -104,37 +107,19 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:85,Deshi TV
 #EXTVLCOPT:network-caching=1000
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:0,JonmoBhumi TV 
-#EXTVLCOPT:network-caching=1000
-https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Bangladeshi",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:0,Thikana
-#EXTVLCOPT:network-caching=1000
-https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
+
 
 #EXTINF:0,Movie Bangla
 #EXTVLCOPT:network-caching=1000
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:0,Aamar Bangla 
-#EXTVLCOPT:network-caching=1000
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sananda Tv
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/PJbWDxnT/20240822-231631.png",Colors Bangla Cinema
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:0,Sananda
-#EXTVLCOPT:network-caching=1000
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:14,JTBS Classic
-#EXTVLCOPT:network-caching=1000
-https://jtbsclassic.dpdns.org/live.m3u8
+
 
 
 
@@ -144,11 +129,8 @@ https://jtbsclassic.dpdns.org/live.m3u8
 
 #EXTINF:0,"𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Aakaash Aath 
 #EXTVLCOPT:network-caching=1000
-http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5xkWsRS/star-jalsa.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjWkWhzp/Zee-bangla.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
-https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 Bangla",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
@@ -159,78 +141,36 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1t6r1gv/20240823_023247.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors HD
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",& Tv
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-#EXTINF:0,tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",&TV HD 
+
+
+#EXTINF:0,Sony Entertainment SD
 #EXTVLCOPT:network-caching=1000
-http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Tv
-https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",HUM TV
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Television
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Television HD
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Sab HD
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/3rbX1G92/images.jpg",Colors HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+http://38.96.178.205/SONYHD/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://dvltv.cc:80/images/hzBbmMrmtIEGXqMnUe7kyqbU9JWkJ2nJ6ev_wk3Iw2IsztmMqbREZN5gP7tET8Y1.jpg" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Star Gold HD
-http://dvltv.cc/live/iptvmax017/iptvmax0178/495.ts
-#EXTINF:-1 tvg-logo="http://dvltv.cc:80/images/hzBbmMrmtIEGXqMnUe7kysMCsVACj2Aieh2FqKtnevK2ttwJe7TRRJHWAuXfsaqe.jpg" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Star Gold 2
-http://dvltv.cc/live/iptvmax017/iptvmax0178/633.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yTSwT36/Star-Gold-Romance.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Star Gold Romance
-http://dvltv.cc/live/iptvmax017/iptvmax0178/2172.ts
-#EXTINF:-1 tvg-logo="http://dvltv.cc:80/images/hzBbmMrmtIEGXqMnUe7kygaKwAnsYYzzgP8J5U53Kjee6Ibg9i7-Bku3gmVaP6N3Yf7efi9ErGgoLXlubWjoeA.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Star Gold Thrills
-http://dvltv.cc/live/iptvmax017/iptvmax0178/498.ts
-
-
-
-
-
-
-#EXTINF:0,Zee Cinema 
+#EXTINF:0,Colors HD
 #EXTVLCOPT:network-caching=1000
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:0,COLORS
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+
+#EXTINF:0,Zee TV
+#EXTVLCOPT:network-caching=1000
+https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧",Zee Cinema HD
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Bollywood
-https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max HD
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-
-#EXTINF:0,Sony Max 2 [US]
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-
-#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Movies",& Pictures HD
-#EXTVLCOPT:network-caching=1000
-https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie 
 
 
 #EXTINF:0,B4U Kadak 
@@ -241,19 +181,20 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 
-#EXTINF:0,B4U Movies
-#EXTVLCOPT:network-caching=1000
-https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
 
-#EXTINF:0,Colors Cineplex
-#EXTVLCOPT:network-caching=1000
-http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:0,Colors Cineplex
 #EXTVLCOPT:network-caching=1000
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
+#EXTINF:0,Colors Cineplex Bollywood
+#EXTVLCOPT:network-caching=1000
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+
+#EXTINF:0,Colors Cineplex Superhits
+#EXTVLCOPT:network-caching=1000
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 
 #EXTINF:-1,Colors Cineplex Superhit
 http://live.balajibroadband.com:3500/live/1450.m3u8
@@ -261,14 +202,6 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:0,Goldmines
 #EXTVLCOPT:network-caching=1000
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-
-#EXTINF:0,Goldmines 2
-#EXTVLCOPT:network-caching=1000
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
-
-#EXTINF:0,Goldmines Action
-#EXTVLCOPT:network-caching=1000
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 
 #EXTINF:0,Goldmines Bollywood
 #EXTVLCOPT:network-caching=1000
@@ -292,15 +225,16 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1,Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:0,Bollygold
+#EXTVLCOPT:network-caching=1000
+https://go.skym3u.dev/live/c66a25/0ef8b9f8fe18661c7404e683cfd04436a726823c44d76968b0ce3ee465bf9cde28d2eaaea04a613fd57adb0f5ee6fd75d53565055431d5299947df.m3u8?s=dcc106&id=kgpz.m3u
 
 #EXTINF:-1,NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
-#EXTINF:0,NH BollyGold
+#EXTINF:0,NH BollyRaga
 #EXTVLCOPT:network-caching=1000
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
 
 #EXTINF:0,MH One Dil Se
 #EXTVLCOPT:network-caching=1000
@@ -312,26 +246,31 @@ https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
 
 
 
-
-#EXTINF:24,MN+
+#EXTINF:0,EPIX TV
 #EXTVLCOPT:network-caching=1000
-http://103.135.253.32:8080/MN-PLUS/index.m3u8
+https://go.skym3u.dev/live/c66a25/d95cfc23f8601af85bfd59bd33f2e37b943f8a7eb31ee444cd63f9ea1a8806f5a4075ba8548cbcb0f879df32b8bebb394ef4a05e3424a2c414cff896f0face297183ec11f20786ff7f54.m3u8?s=dcc106&id=kgpz.m3u
 
-#EXTINF:12,Sony Pix
+#EXTINF:54,HBO
 #EXTVLCOPT:network-caching=1000
-https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/chunks.m3u8
+https://go.skym3u.dev/live/c66a25/1bc3e0433dfa97a7dad89fbddd7579945def15451a978ffa0804da4513a0c1f6ea98c262df34fda73e2659a647c03df336b745ec671c904709a2a173c346ac5dc7f2f16a23.m3u8?s=dcc106&id=kgpz.m3u
 
-#EXTINF:0,Star Movies
+#EXTINF:0,HBO 2
 #EXTVLCOPT:network-caching=1000
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+https://go.skym3u.dev/live/c66a25/a5b42e1dc5c9ec073792ee564cbb6431b97970602dd31d7ce787e5d26ed8deb590694e8bb94ae83f124493f5aa802f1435767eb0f559604e0bd37fe3a43673317a15a748b8f2c1e90359.m3u8?s=dcc106&id=kgpz.m3u
 
-#EXTINF:0,Star Movies Select
-#EXTVLCOPT:network-caching=1000
-http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
 
-#EXTINF:0,Hollywood HD
-#EXTVLCOPT:network-caching=1000
-http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0,Movies Now
